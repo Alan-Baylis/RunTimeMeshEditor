@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6EC6D233-157C-C2EA-C685-D3021E190883}") = "PixelPainting", "Assembly-CSharp-vs.csproj", "{F2E5D29C-22AD-CA99-9C7A-BF6311C4F71A}"
+EndProject
+Project("{6EC6D233-157C-C2EA-C685-D3021E190883}") = "PixelPainting", "Assembly-CSharp-Editor-vs.csproj", "{4EC858FA-4B19-1937-6ED9-5BE513577979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2E5D29C-22AD-CA99-9C7A-BF6311C4F71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E5D29C-22AD-CA99-9C7A-BF6311C4F71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E5D29C-22AD-CA99-9C7A-BF6311C4F71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E5D29C-22AD-CA99-9C7A-BF6311C4F71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC858FA-4B19-1937-6ED9-5BE513577979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC858FA-4B19-1937-6ED9-5BE513577979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC858FA-4B19-1937-6ED9-5BE513577979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC858FA-4B19-1937-6ED9-5BE513577979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+				GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
